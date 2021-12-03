@@ -1,1 +1,1 @@
-мои реализации односвязного списка и умных указателей: std::shared_ptr (так же реализована функция std::make_shared, не создающая лишних аллокаций и std::enabled_shared_from_this), std::unique_ptr, использующая реализацию std::compressed_pair и шаблонный std::vector
+мои реализации односвязного списка и умных указателей: `std::shared_ptr` (так же реализована функция `std::make_shared`, не создающая лишних аллокаций и `std::enabled_shared_from_this`), `std::unique_ptr`, использующая реализацию `std::compressed_pair` и шаблонный `std::vector`
